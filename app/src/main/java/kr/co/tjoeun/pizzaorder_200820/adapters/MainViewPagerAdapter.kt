@@ -13,7 +13,7 @@ class MainViewPagerAdapter(fm : FragmentManager) : FragmentPagerAdapter(fm) {
     override fun getItem(position: Int): Fragment {
         return when(position) {
             0 -> Pizza_store()
-            1 -> MyProfileFragment()
+            else -> MyProfileFragment()
         }
     }
 
