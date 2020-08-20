@@ -30,7 +30,7 @@ class StoreAdapter(
 
         val nameTxt = row.findViewById<TextView>(R.id.nameTxt)
         val logoImg = row.findViewById<ImageView>(R.id.logUrl)
-        val phoneNum = row.findViewById<TextView>(R.id.phoneNum)
+//        val phoneNum = row.findViewById<TextView>(R.id.phoneNum)
 
         val data = mList[position]
 
