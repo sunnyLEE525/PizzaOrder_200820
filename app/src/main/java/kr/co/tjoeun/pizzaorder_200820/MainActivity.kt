@@ -1,10 +1,8 @@
 package kr.co.tjoeun.pizzaorder_200820
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import kotlinx.android.synthetic.main.activity_main.*
 import kr.co.tjoeun.pizzaorder_200820.adapters.MainViewPagerAdapter
-import kr.co.tjoeun.pizzaorder_200820.datas.Pizzas
 
 class MainActivity : BaseActivity() {
 

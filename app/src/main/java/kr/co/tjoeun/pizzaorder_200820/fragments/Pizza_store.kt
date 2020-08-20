@@ -23,5 +23,7 @@ class Pizza_store : Fragment() {
 //        리스트뷰에 피자 가게 뿌려주기 필요함
 
 
+
+
     }
 }
