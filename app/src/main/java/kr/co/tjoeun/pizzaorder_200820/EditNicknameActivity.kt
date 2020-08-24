@@ -6,6 +6,7 @@ import android.os.Bundle
 import android.widget.Toast
 import kotlinx.android.synthetic.main.activity_edit_nickname.*
 
+//최종
 class EditNicknameActivity : BaseActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
