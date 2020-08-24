@@ -10,6 +10,8 @@ class EditNicknameActivity : BaseActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_edit_nickname)
+        setUpEvents()
+        setValues()
 }
     override fun setUpEvents() {
 

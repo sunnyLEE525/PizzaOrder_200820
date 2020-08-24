@@ -33,7 +33,6 @@ class MyProfileFragment : Fragment() {
             startActivityForResult(myIntent, REQ_FOR_NICKNAME)
         }
 
-
     }
 
     override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent?) {
